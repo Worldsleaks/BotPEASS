@@ -18,6 +18,51 @@ DESCRIPTION_KEYWORDS_I:
 - kubernetes
 - " lxc "
 - podman
+- apache
+- tomcat
+- iis
+- web service
+- waf
+- web server
+- reverse proxy
+- http
+- https
+- apache2
+- mod_security
+- waf rule
+- csrf
+- xss
+- sql injection
+- remote code execution
+- RCE
+- command injection
+- SSRF
+- CSRF
+- XXE
+- LFI
+- RFI
+- XSS
+- directory traversal
+- subdomain takeover
+- asset discovery
+- fuzzing
+- information disclosure
+- CVE
+- zero-day
+- bug bounty
+- latest vulnerability
+- bypass
+- new exploit
+- exploit technique
+- bug chaining
+- recon
+- fuzzing
+- credential stuffing
+- brute force
+- session hijacking
+- open redirect
+- cache poisoning
+- host header injection
 
 DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
@@ -32,7 +77,34 @@ PRODUCT_KEYWORDS_I:
 - linux
 - windows
 - macos
-
+- apache
+- tomcat
+- iis
+- web
+- waf
+- web service
+- http
+- https
+- reverse proxy
+- mod_security
+- nmap
+- burpsuite
+- metasploit
+- zap
+- amass
+- subfinder
+- assetfinder
+- nuclei
+- ffuf
+- gau
+- aquatone
+- recon-ng
+- httpx
+- gospider
+- waybackurls
+- hakrawler
+- massdns
+- recon
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
